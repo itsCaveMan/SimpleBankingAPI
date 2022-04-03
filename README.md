@@ -12,6 +12,7 @@ This simple Django application using django-rest-framework to handle CRUD functi
  3. Setup  
  4. Usage  
  5. API Short Overview  
+ 6. Docs / API Map
   
 <br>  
   
@@ -95,3 +96,8 @@ You can safely ignore `<CSRF TOKEN HERE>` requirements, as it is ignored.
  <br><br>  
   
 8. more details in `api/v1/docs/`
+
+
+
+## Docs/API map
+![docs](https://user-images.githubusercontent.com/51651537/161448458-6deb2120-704c-460f-bac8-5d35389f4cdd.png)
